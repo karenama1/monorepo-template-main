@@ -1,13 +1,13 @@
 # TODO Please edit the following information in your assignment
 
-- Name:
-- How many hours did it take you to complete this assignment?
-- Did you collaborate with any other students/TAs/Professors?
-- Did you use any external resources? (Cite them below)
+- Name: Karena Ma
+- How many hours did it take you to complete this assignment? 24 hours
+- Did you collaborate with any other students/TAs/Professors? No
+- Did you use any external resources? (Cite them below) 
+  - https://mathspp.com/blog/how-to-create-a-python-package-in-2022
   - tbd
-  - tbd
-- (Optional) What was your favorite part of the assignment?
-- (Optional) How would you improve the assignment?
+- (Optional) What was your favorite part of the assignment? 
+- (Optional) How would you improve the assignment? Instruction was not clear.
 
 # Implementation Logistics
 
