@@ -6,31 +6,36 @@
 
 <hr>
 
-**Use Case**: *use-case-title*
+**Use Case**: Set Canvas Size
 
-**Primary Actor**: *primary-actor*
+**Primary Actor**: User
 
-**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
+**Goal in Context**: The primary actor, a user, intends to set the canvas size 60 600 pixels wide and 400 pixels high in the MiniPaint application.
 
-**Preconditions**: *conditions that must be true before the scenario may play out*
+**Preconditions**: The MiniPaint application is open and running
 
-**Trigger**: *an action or actions that initiate the scenario*
+**Trigger**: The user clicks the "Canvas" menu and selects "Set Size."
   
-**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
+**Scenario**: 
+1.The user opens the MiniPaint application.
+2.The User selects "Canvas" and chooses "Set Size."
+3.The application displays a dialog or input fields for the user to specify the canvas dimensions.
+4.The user enters the canvas dimensions as 600x400 pixels.
+5.The user confirms the size, and the application adjusts the canvas to the specified dimensions.
  
-**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
+**Exceptions**:If there are technical issues or the user cancels the size setting, the canvas size may not be changed.
 
-**Priority**: *relative importance of this use case compared to other use cases*
+**Priority**:High-priority 
 
-**When available**: *the targeted release that covers this use case*
+**When available**:First release
 
-**Channel to actor**: *the means through which the primary actor and the system communicate*
+**Channel to actor**:The primary actor interacts with the application through a graphical user interface using input devices such as a mouse and keyboard.
 
-**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
+**Secondary Actor**: N/A
 
-**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
+**Channels to Secondary Actors**:N/A
 
-**Open Issues**: *notes, concerns, or other materials*
+**Open Issues**: May need to have more canvas sizes for user to select instead of having one fixed size.
 
 <hr>
 

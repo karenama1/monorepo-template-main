@@ -6,31 +6,39 @@
 
 <hr>
 
-**Use Case**: *use-case-title*
+**Use Case**: Selecting brush color
 
-**Primary Actor**: *primary-actor*
+**Primary Actor**: User
 
-**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
+**Goal in Context**: To modify or select a specific color.
 
-**Preconditions**: *conditions that must be true before the scenario may play out*
+**Preconditions**: The program must be running and in a responsive state.
 
-**Trigger**: *an action or actions that initiate the scenario*
+**Trigger**: Pressing numbers key on keyboard.(number key 1-8)
   
-**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
- 
-**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
+**Scenario**: 
+Scenario 1: Press number key 1 to select color black.
+Scenario 2: Press number key 2 to select color white.
+Scenario 3: Press number key 3 to select color red.
+Scenario 4: Press number key 4 to select color green.
+Scenario 5: Press number key 5 to select color blue.
+Scenario 6: Press number key 6 to select color yellow.
+Scenario 7: Press number key 7 to select color magenta.
+Scenario 8: Press number key 8 to select color cyan.
 
-**Priority**: *relative importance of this use case compared to other use cases*
+**Exceptions**:The program may become potentially unresponsive; or user has entered a invalid key. If these happen, the color selection feature may not be working.
 
-**When available**: *the targeted release that covers this use case*
+**Priority**: High-priority
 
-**Channel to actor**: *the means through which the primary actor and the system communicate*
+**When available**: First release
 
-**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
+**Channel to actor**: The primary actor interacts with the application through a keyboard.
 
-**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
+**Secondary Actor**: N/A
 
-**Open Issues**: *notes, concerns, or other materials*
+**Channels to Secondary Actors**: N/A
+
+**Open Issues**: May include more colors' selections in the future.
 
 <hr>
 
